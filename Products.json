@@ -1,0 +1,27 @@
+[
+  {
+    "ProductCode": 1,
+    "ProductName": "Ёлка",
+    "ProductPrice": 1451
+  },
+  {
+    "ProductCode": 2,
+    "ProductName": "Гирлянда",
+    "ProductPrice": 1894
+  },
+  {
+    "ProductCode": 3,
+    "ProductName": "Оливье",
+    "ProductPrice": 388
+  },
+  {
+    "ProductCode": 4,
+    "ProductName": "Шампанское",
+    "ProductPrice": 678
+  },
+  {
+    "ProductCode": 5,
+    "ProductName": "Подарок-сюрприз",
+    "ProductPrice": 2760
+  }
+]
